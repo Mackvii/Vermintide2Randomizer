@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VermintideRandomizer", "VermintideRandomizer\VermintideRandomizer.csproj", "{23FAD57F-5DDA-4DA6-976A-807A754E274E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FAD57F-5DDA-4DA6-976A-807A754E274E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FAD57F-5DDA-4DA6-976A-807A754E274E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FAD57F-5DDA-4DA6-976A-807A754E274E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FAD57F-5DDA-4DA6-976A-807A754E274E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E1852A-67DC-48E9-84ED-E0CE90879C8F}
+	EndGlobalSection
+EndGlobal
